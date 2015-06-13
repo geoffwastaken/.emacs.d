@@ -11,6 +11,7 @@
   '(
     column-marker
     company
+    csharp-mode
     edit-server
     exec-path-from-shell
     hl-indent

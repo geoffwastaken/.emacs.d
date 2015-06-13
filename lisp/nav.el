@@ -10,6 +10,7 @@
 (setq-default indent-tabs-mode nil)
 (setq-default tab-width 2)
 (setq css-indent-offset 2)
+(setq c-basic-offset 2)
 (require 'web-mode)
   (add-to-list 'auto-mode-alist '("\\.erb\\'" . web-mode))
   (setq web-mode-markup-indent-offset 2)
